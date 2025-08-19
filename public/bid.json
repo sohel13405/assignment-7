@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "title": "2022 Tesla Model S",
+      "description": "Electric luxury sedan with autopilot and long-range battery.",
+      "currentBidPrice": 85000,
+      "timeLeft": "2h 15m",
+      "bidsCount": 12,
+      "image": "https://i.ibb.co.com/21MbZ4dH/car.png"
+    },
+    {
+      "id": 2,
+      "title": "Rolex Submariner Watch",
+      "description": "Classic stainless steel Rolex with black dial and ceramic bezel.",
+      "currentBidPrice": 12500,
+      "timeLeft": "5h 40m",
+      "bidsCount": 8,
+      "image": "https://i.ibb.co.com/QvC9Zs5r/watch.webp"
+    },
+    {
+      "id": 3,
+      "title": "Apple MacBook Pro M2",
+      "description": "16-inch MacBook Pro with M2 Max chip and 32GB RAM.",
+      "currentBidPrice": 2800,
+      "timeLeft": "1h 05m",
+      "bidsCount": 15,
+      "image": "https://i.ibb.co.com/23R1x7Vz/mac.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Canon EOS R5 Camera",
+      "description": "Full-frame mirrorless camera with 8K video recording.",
+      "currentBidPrice": 3500,
+      "timeLeft": "3h 10m",
+      "bidsCount": 9,
+      "image": "https://i.ibb.co.com/7J0WzrBL/canon.webp"
+    },
+    {
+      "id": 5,
+      "title": "Yamaha R1 Motorcycle",
+      "description": "High-performance sport bike with a 998cc engine.",
+      "currentBidPrice": 14000,
+      "timeLeft": "7h 25m",
+      "bidsCount": 6,
+      "image": "https://i.ibb.co.com/0SY3G4y/bike.webp"
+    },
+    {
+      "id": 6,
+      "title": "Antique Wooden Desk",
+      "description": "Early 19th-century handcrafted oak desk in excellent condition.",
+      "currentBidPrice": 2200,
+      "timeLeft": "4h 55m",
+      "bidsCount": 5,
+      "image": "https://i.ibb.co.com/tMYVKc8N/desk.jpg"
+    }
+  ]
+  
